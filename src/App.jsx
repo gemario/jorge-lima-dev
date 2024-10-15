@@ -1,5 +1,6 @@
 import { Hero } from "./components/Hero";
 import { Navbar } from "./components/NavBar";
+import { Projects } from "./components/Projects";
 import { Technologies } from "./components/Technologies";
 
 export function App() {
@@ -14,6 +15,7 @@ export function App() {
         <Navbar />
         <Hero />
         <Technologies />
+        <Projects />
       </div>
     </div>
   )

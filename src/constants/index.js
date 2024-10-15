@@ -29,13 +29,13 @@ export const PROJECTS = [
     image: project1,
     description:
       "Plann.er is a website that makes group travel planning easy, allowing friends to collaborate in real time to create itineraries, log activities, and share useful links.",
-    technologies: ["TypeScript", "Tailwind CSS", "React", "Vite", "date fns"],
+    technologies: ["TypeScript", "Tailwind CSS", "React", "date fns"],
   },
   {
     title: "ToDo List",
     image: project2,
     description:
-      "Todo Ignite is a task management platform that makes personal organization easier, allowing you to create and manage lists in a practical and intuitive way.",
+      "Todo List is a task management platform that makes personal organization easier, allowing you to create and manage lists in a practical and intuitive way.",
     technologies: ["React", "TypeScript", "Toastify", "CSS"],
   },
   {
@@ -50,7 +50,7 @@ export const PROJECTS = [
     image: project4,
     description:
       "Front-end application that converts audio notes into text, making it easier to organize ideas with an intuitive interface and editing and sharing features.",
-    technologies: ["TypeScript", "React", "Tailwind CSS", "Lucide", "Sonner"],
+    technologies: ["TypeScript", "React", "Tailwind CSS", "Sonner"],
   },
 ];
 
