@@ -55,7 +55,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Av. dos Bandeirantes, 5311 - Vila Olímpia, São Paulo - SP, Brazil",
+  address: "Rua Antônio Clemente, 242 - Jardim Sao Paulo - SP, Brazil",
   phoneNo: "+5513988354347 ",
-  email: "gmario.sh@gmail.com.com",
+  email: "gmario.sh@gmail.com",
 };
