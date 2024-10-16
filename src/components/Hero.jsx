@@ -68,8 +68,8 @@ export function Hero() {
                target='_blank'
                rel='noopener noreferrer'
                download
-               className='bg-white rounded-2xl p-4 font-bold text-base text-stone-800 mb-10 flex items-center gap-2
-               hover:opacity-85'>
+               className='bg-stone-400 rounded-2xl p-4 font-bold text-base text-stone-950 mb-10 flex items-center gap-2
+               hover:bg-white duration-150'>
                 Download Resume
                 <RiDownload2Fill className='size-5'/>
             </motion.a>

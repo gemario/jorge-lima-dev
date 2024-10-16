@@ -16,28 +16,40 @@ export function Navbar() {
           rel='noopener noreferrer'
           arial-label='LinkedIn'
         >
-          <FaLinkedin />
+          <FaLinkedin 
+            title="LinkedIn"
+            className="text-stone-400 hover:text-white duration-150"
+          />
         </a>
         <a href='https://www.github.com/gemario'
           target='_blank'
           rel='noopener noreferrer'
           arial-label='GitHub'
         >
-          <FaGithub />
+          <FaGithub
+            title="GitHub" 
+            className="text-stone-400 hover:text-white duration-150"
+          />
         </a>
         <a href='https://www.instagram.com/jorgee.mario/'
           target='_blank'
           rel='noopener noreferrer'
           arial-label='Instagram'
         >
-          <FaInstagram />
+          <FaInstagram 
+            title="Instagram"
+            className="text-stone-400 hover:text-white duration-150"
+          />
         </a>
         <a href='https://x.com/geemarioo'
           target='_blank'
           rel='noopener noreferrer'
           arial-label='x'
         >
-          <FaSquareXTwitter />
+          <FaSquareXTwitter 
+            title="X"
+            className="text-stone-400 hover:text-white duration-150"
+          />
         </a>
       </div>
     </nav>
