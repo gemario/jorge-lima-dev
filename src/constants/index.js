@@ -55,7 +55,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Rua Antônio Clemente, 242 - Jardim Sao Paulo - SP, Brazil",
+  address: "São Paulo - SP, Brazil",
   phoneNo: "+5513988354347 ",
   email: "gmario.sh@gmail.com",
 };
