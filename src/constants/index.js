@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
-import project3 from "../assets/projects/project-3.webp";
+import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.png";
 
 export const HERO_CONTENT = `I am a passionate front-end developer with a knack for building robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React, TypeScript, and Tailwind CSS, as well as back-end technologies like Node.js and SQL. Additionally, I have a degree in Systems Analysis and Development. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
@@ -39,11 +39,11 @@ export const PROJECTS = [
     technologies: ["React", "TypeScript", "Toastify", "CSS"],
   },
   {
-    title: "Portfolio Website",
+    title: "Reforma Agora",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["Tailwind CSS", "Vite", "React", "Framer Motion"],
+      "I developed a modern and responsive website for Reforma Agora, a well-established company in the general renovation sector in the city of São Paulo.",
+    technologies: ["HTML", "CSS", "JavaScript"],
   },
   {
     title: "Expert Notes",

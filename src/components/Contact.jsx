@@ -35,23 +35,15 @@ export function Contact() {
               {CONTACT.address}
             </div>
           </motion.address>
-            <motion.p 
-              className="my-4"
-            >
-              <div className="flex justify-center items-center gap-2">
-                <FaPhoneAlt />
-                {CONTACT.phoneNo}
-              </div>
-            </motion.p>
-            <a 
-              href="mailto:gmario.sh@gmail.com"  
-              className="border-b"
-            >
-              <div className="flex justify-center items-center gap-2">
-                <IoMdMail />
-                {CONTACT.email}
-              </div>
-            </a>
+          <a 
+            href="mailto:gmario.sh@gmail.com"  
+            className="border-b"
+          >
+            <div className="flex justify-center items-center gap-2">
+              <IoMdMail />
+              {CONTACT.email}
+            </div>
+          </a>
           </motion.div>
         
           <motion.div 
